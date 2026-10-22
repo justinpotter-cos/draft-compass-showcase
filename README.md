@@ -16,6 +16,25 @@ I built Draft Compass to bring that information together and make the decision p
 - Displays category comparisons and position depth.
 - Supports season-specific statistical inputs, including historical actuals and selected projections.
 
+## Application screenshots
+
+### Draft workspace
+
+Player recommendations, roster context, positional depth, and scarcity indicators support decisions during the draft.
+
+![Draft workspace with recommendations and roster analysis](draft-dashboard.png)
+
+### League category heatmap
+
+Color-coded rankings and statistical totals show each team’s relative strengths and weaknesses across scoring categories.
+
+![League category heatmap comparing twelve teams](category-heatmap.png)
+
+### Personal rankings and tiers
+
+Tier Builder lets users customize positional rankings and tier breaks alongside player statistics.
+
+![Tier Builder showing personal player rankings and tiers](player-rankings.png)
 ## My role
 
 I lead the product direction, requirements, prioritization, and validation. I use Claude, Cursor, and other AI tools to support implementation, testing, troubleshooting, and iteration.
